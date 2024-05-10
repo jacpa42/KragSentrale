@@ -56,6 +56,8 @@ score = compute_score(colours)
 runnum = 10_000_000
 
 for i in range(runnum):
+    if not i % 10_000:
+        print(f"{100*i/runnum}%")
     new_cols = [rcol(cheeta_colour), rcol(bp_colour),
                 rcol(xcult_colour), rcol(flathold_colour)]
     s = compute_score(new_cols)
