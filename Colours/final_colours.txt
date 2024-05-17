@@ -1,0 +1,167 @@
+0 L 0
+2 L 1
+2 Link XXL2
+0 Odyssey 0
+0 Stadium S0
+2 Stadium S1
+3 Stadium S2
+4 Stadium M1
+2 Stadium M2
+2 Stadium L1
+0 Stadium L4
+3 Stadium XL1
+4 Stadium XL3
+3 Stadium XL4
+0 Stadium XXL2
+4 Stadium XXL3
+2 Stadium XXL4
+3 Stadium XXXL1
+2 Stadium XXXL2
+5 Stadium 2
+0 Volcano
+3 Soap
+5 Moon
+2 TV S
+4 Harpies
+3 Ange
+4 Méduse
+4 Lucifer
+3 Rokh
+5 Valkyrie
+2 Sparrow
+4 Hawk
+2 Astraeos
+0 Hermès
+5 Blade
+4 Wings 0
+4 Crater 0
+1 Crater 1
+1 Pulsar
+2 Boomerang 0
+4 Odyssey 1
+2 Stadium 0
+5 Stadium 1
+1 Scoop 0
+0 Lame 0
+5 Boomramp 0
+4 Taji 1
+0 Taji 0
+4 Wave 1 DT
+2 Wave 2 DT
+4 Wave 3 DT
+3 Boomjump set 0
+0 Dope 0
+5 Dope 1
+5 Dope 2
+1 FBI 1
+2 FBI 2
+3 FBI 3
+3 FBI 0
+2 DT Fiber Impression 19
+2 DT Fiber Impression 20
+5 DT Fiber Impression 21
+1 DT Fiber Impression 22
+2 Impossible 0
+1 Impossible 4
+0 Impossible 5
+0 Impossible 1
+1 Impossible 2
+1 XL ledges
+2 XL jugs
+0 large  jugs
+4 medium jugs
+5 large edges
+3 medium crimps
+5 slopy crimps
+1 incut crimps
+5 footholds
+0 screw on blocky
+3 screw on crimps S
+1 screw on crimps XS
+4 full impossible DT fibers
+0 screw on specials
+2 Big Crimps
+3 Crimps
+5 Screw on impressions
+5 Scew on set 1
+0 screw on set 2
+3 Hi Fat
+1 Vacuum
+1 Competition 0
+4 Competition 2
+2 Competition 1
+3 Set 1
+5 Set 2
+3 Set 3
+5 Set 4
+3 Set 52
+2 Set 47
+0 Set 46
+3 Set 44-3
+1 Set 44
+0 Set 35
+0 Set 34
+5 Set 33
+3 Set 27
+5 Set 26
+3 Set 25
+5 Set 24
+0 Set 23
+1 Set 22
+0 Set 21
+3 Set 20
+3 Set 17
+2 Set 14-2
+0 Set 13-3
+2 Set 10-1
+2 Set 10-2
+3 Set 10-3
+3 Set 8-2
+0 Set 8-4
+2 Set 5-1
+0 Set 3-1
+5 Set 3-2
+1 Set 1-2
+4 LL 0
+2 29.05
+3 28.01
+1 CC 0
+3 28.11
+1 28.12
+5 28.13
+3 28.19
+1 CC 1
+1 CC 2
+4 27.24
+2 27.25
+3 27.26
+4 DC 0
+5 DC 1
+3 26.14
+4 26.15
+4 26.16
+5 26.17
+5 26.18
+0 26.19
+4 26.2
+4 26.21
+5 26.22
+2 26.23
+5 26.24
+5 26.25
+0 26.26
+4 26.27
+2 Revival
+3 Superstar
+0 EM 0
+4 EM 1
+2 TB 0
+4 TB 1
+5 TS 0
+1 TS 1
+1 GL 0
+1 BL 0
+2 BL 1
+1 JJ 0
+4 JJ 1
+3 BM 0
