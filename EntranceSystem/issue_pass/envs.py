@@ -1,0 +1,5 @@
+KRAG_EMAIL = "kragsentrale@gmail.com"
+APP_PASSWORD = "kouc zfwa usbi xauj"
+ISSUER_ID = "3388000000022347778"
+CLASS_SUFFIX = "krag-sentrale-pass"
+API_KEY = "AIzaSyDEvdTpuJtP4CXt9caxqMM--leOxOz11wM"
