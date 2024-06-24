@@ -4,3 +4,6 @@ target/
 debug/
 *.lock
 .tmp/
+__pycache__/
+venv/
+envs.py
