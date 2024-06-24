@@ -6,4 +6,4 @@ debug/
 .tmp/
 __pycache__/
 venv/
-envs.py
+secret.py

@@ -1,7 +1,8 @@
-from envs import APP_PASSWORD, ISSUER_ID, CLASS_SUFFIX, KRAG_EMAIL
+from secret import APP_PASSWORD, ISSUER_ID, CLASS_SUFFIX, KRAG_EMAIL
 import smtplib
 from email.mime.text import MIMEText
 
+# this needs to be actually implemented
 from create_pass_object import DemoGeneric
 
 
@@ -17,16 +18,15 @@ def email_link_to_recipient(recipient: str, obj_suffix: str):
     <html>
     <head></head>
     <body>
-        <p>Hi!<br>
-        How are you?<br>
-        Here is the <a href="{link}">link</a> you wanted.
+        <p>Hello<br>
+        Click this <a href="{link}">link</a> to download the pass.
         </p>
     </body>
     </html>
     """
 
     msg = MIMEText(body, "html")
-    msg["Subject"] = "Google wallet pass link"
+    msg["Subject"] = "Kragsentrale Google wallet pass link"
     msg["From"] = KRAG_EMAIL
     msg["To"] = recipient
 
