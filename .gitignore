@@ -6,4 +6,5 @@ debug/
 .tmp/
 __pycache__/
 venv/
-secret.py
+secret.*
+credentials/
